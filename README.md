@@ -1,4 +1,4 @@
-# 📊 Online Retail Sales Dashboard
+# 📊 Online Retail Sales Dashboard | Power BI Project
 
 ## 🚀 Project Overview
 
